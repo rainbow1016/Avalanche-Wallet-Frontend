@@ -1,0 +1,32 @@
+{
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/",
+    "tokens": [
+        {
+            "chainId": 43114,
+            "address": "native",
+            "testnet_address": "native",
+            "decimals": 18,
+            "name": "AVAX",
+            "symbol": "AVAX",
+            "logoURI": "https://cdn.routescan.io/_next/image?url=https%3A%2F%2Fcms-cdn.avascan.com%2Fcms2%2Favax.4e9df24ea466.svg&w=32&q=75"
+        },
+        {
+        "chainId": 43114,
+        "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+        "testnet_address": "0x5425890298aed601595a70AB815c96711a31Bc65",
+        "decimals": 6,
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "logoURI": "https://cdn.routescan.io/_next/image?url=https%3A%2F%2Fcms-cdn.avascan.com%2Fcms2%2Ftype%3Dpng_350_0.32116e70bafc&w=32&q=100"
+        },
+        {
+        "chainId": 43114,
+        "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+        "testnet_address": "0xd8b917cf32022e35E09Bac2c6F16a64fa7D1DEC9",
+        "decimals": 6,
+        "name": "USDT",
+        "symbol": "USDT",
+        "logoURI": "https://cdn.routescan.io/_next/image?url=https%3A%2F%2Fcms-cdn.avascan.com%2Fcms2%2Ftransparent_341f649a20.810e2a7b7587.png&w=32&q=100"
+        }
+    ]
+}
